@@ -3,9 +3,12 @@ The figure file attached contains h pairs of .png plot files and the R script th
 The prerequisite for these scripts is that the data referenced below is placed in the working directory in a folder titled "Data"
 
 Plot 1: histogram of the household global minute-averaged active power in kilowatts for 2/1/2007-2/2/2007
+
 Plot 2: a line plot of the hosehold global minute-averaged active power in kilowatts by datetime of recording for dates between 2/1/2007-2/2/2007.
+
 Plot 3: a line plot of each sub metering (sub meters determined by area such as kitchen, laundry room etc.) in watt-hour of active energy by datetime 
 of recording. All recording between 2/1/2007-2/2/2007.
+
 Plot 4: contains four plots top left: same as plot 2 above. top right: voltage readings by datetime of recording for dates between 2/1/2007-2/2/2007.
 bottom left: same as plot 3. bottom right: line grapph of household global minute-averaged reactive power (in kilowatt) by datetime of recording for 
 dates between 2/1/2007-2/2/2007.

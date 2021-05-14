@@ -1,4 +1,4 @@
-The figure file attached contains h pairs of .png plot files and the R script that creates them.
+Contains pairs of .png plot files and the R script that creates them.
 
 The prerequisite for these scripts is that the data referenced below is placed in the working directory in a folder titled "Data"
 
